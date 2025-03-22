@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/LOUKILI-YASSIR?label=Suiveurs&style=social" alt="followers"> 
-  <img src="https://img.shields.io/github/stars/LOUKILI-YASSIR?label=Étoiles&style=social" alt="stars">
+  <img src="https://img.shields.io/github/stars/LOUKILI-YASSIR?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars">
 </p>
 
 <p align="center">👨‍💻 Je suis un développeur full stack avec une expérience dans divers frameworks et technologies.</p>
